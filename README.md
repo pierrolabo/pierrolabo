@@ -21,9 +21,9 @@
   
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- 
-</p> 
-  ### What i'm doing right now:
+ </p> 
+
+  ### What im doing right now:
   - 📖 Learning about clean architecture
   - 👨‍🔬 Coding with TDD
   
