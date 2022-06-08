@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👨‍🔧, i'm Pierre</h1>
+<h1 align="center">Hi there 👨‍🔧</h1>
 <h3 align="center">🔍 Driven by curiosity i love building stuff !!🛠️</h3>
 
 - ⚽️ Open for collab
